@@ -267,7 +267,7 @@ def menu():
 	
 ######PILIH######
 def pilih():
-	unikers = raw_input("\033[1;93mBY Zxphoenix \033[91m:\033[1;96m ")
+	unikers = raw_input("\033[1;93mSelect Number \033[91m:\033[1;96m ")
 	if unikers =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
@@ -282,7 +282,7 @@ def pilih():
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
 	
-########## CRACK INDONESIA #######
+########## CRACK INDONESIAN #######
 def indo():
 	global toket
 	os.system('clear')
