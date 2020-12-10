@@ -190,7 +190,7 @@ def tokenz():
 		zedd.write(toket)
 		zedd.close()
 		print '\033[1;97m[\033[1;92m✓\033[1;97m]\033[1;92m Login Berhasil'
-		os.system('xdg-open https://www.youtube.com/channel/UCOoNmkFfbfrLG2uf1uBUWYg ')
+		os.system('xdg-open https://m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m[\033[1;91m!\033[1;97m] \033[1;91mToken Salah !"
