@@ -268,7 +268,7 @@ def menu():
 	
 ######PILIH######
 def pilih():
-	unikers = raw_input("\033[1;93mCYBER RAMDHAN  \033[91m:\033[1;96m ")
+	unikers = raw_input("\033[1;93m︻氕言テ一一一  \033[91m:\033[1;96m ")
 	if unikers =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
