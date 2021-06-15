@@ -206,7 +206,7 @@ def bot_komen():
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
 	una = ('100044932290784')
-	kom = ('Yeah Iam Hacker 😍')
+	kom = ('Ramdani Mani Kasep 😍')
 	reac = ('ANGRY')
 	post = ('315723919935349')
 	post2 = ('315723919935349')
