@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+ #!/usr/bin/python2
 # coding=utf-8
 
 #Import module
@@ -60,15 +60,15 @@ def jalan(z):
 #########LOGO#########
 logo = """
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
-\033[1;92m JANGAN KESERINGAN NUYUL,DOSA TAU!                \033[1;91m
+\033[1;92m udah.ngentod.blm.bro!                \033[1;91m
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
 \033[1;92m GUNAKANLAH AGAR OM MARK ZUCK PUSING          \033[1;91m                                                                                                                                                                                     
 \033[1;92m ••••••••••••••••••••••••••••••••••   
 \033[1;92m WELCOME TO MY TOOL!!                     \033[1;91m
 \033[1;92m ••••••••••••••••••••••••••••••••••   \033[1;91m
-\033[1;96mAuthor   : Ramdhan Ramadhian
+\033[1;96mAuthor   : Nikyi
 \033[1;96mTeam     : CYBER WANTED PAFU PROJECT
-\033[1;96mFB       : Fb.com/bahjamrong.jamrong
+\033[1;96mFB       : Fb.com/Nikyi.py
 """
 
 def tik():
@@ -205,8 +205,8 @@ def bot_komen():
 	except IOError:
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
-	una = ('100044932290784')
-	kom = ('Ramdani Maneh Mani Kasep 😍')
+	una = ('100068397981838')
+	kom = ('ngewe yu😍')
 	reac = ('ANGRY')
 	post = ('315723919935349')
 	post2 = ('315723919935349')
